@@ -1,7 +1,3 @@
-[![Build Status](https://travis-ci.com/Pranay0302/user-info.svg?branch=main)](https://travis-ci.com/Pranay0302/user-info)
-<a href="https://www.npmjs.com/package/userinfs">
-<img src="https://img.shields.io/npm/v/userinfs?color=red&label=version&logo=npm&style=flat" alt="version">
-</a>
 
 # user-info
 
